@@ -1,0 +1,26 @@
+{
+  "name": "agora",
+  "authors": [
+    "Idar Gonzalez <idargonzalez@gmail.com>"
+  ],
+  "description": "Agora digital",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "agora",
+    "idar",
+    "gonzalez"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
